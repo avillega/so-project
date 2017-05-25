@@ -47,7 +47,7 @@ Todas estas dependencias se instalan a travez de pip3, exceptuando sqlite que se
 6. Para hacer uso de la aplicación en python se clono el repositorio de github: https://github.com/avillega/so-exam2.git y se cambio la ruta de la base de datos sqlite, a una dentro del path del proyecto.
 
 7. Por ultimo, se adjunta una captura de netstat que muestra la ejecucion del app en el puerto 8080
-![captura netstat](https://rawgit.com/avillega/so-project/master/A00320196-A00239620/resources/netstatCaptura.png)
+![captura netstat](https://raw.githubusercontent.com/avillega/so-project/master/A00320196-A00239620/resources/netstatCaptura.png)
 
 8. Se sube una imagen gif donde se muestra el funcionamiento de la aplicación
-![gif app](https://cdn.rawgit.com/avillega/so-project/60bfb050/A00320196-A00239620/resources/video_final.gif)
+![gif app](https://raw.githubusercontent.com/avillega/so-project/master/A00320196-A00239620/resources/video_final.gif)
