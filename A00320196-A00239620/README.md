@@ -50,4 +50,4 @@ Todas estas dependencias se instalan a travez de pip3, exceptuando sqlite que se
 ![captura netstat](https://rawgit.com/avillega/so-project/master/A00320196-A00239620/resources/netstatCaptura.png)
 
 8. Se sube una imagen gif donde se muestra el funcionamiento de la aplicación
-![gif app](so-project/A00320196-A00239620/resources/video_final.gif)
+![gif app](https://cdn.rawgit.com/avillega/so-project/60bfb050/A00320196-A00239620/resources/video_final.gif)
