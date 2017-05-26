@@ -2,7 +2,7 @@
 Felipe Clement - A00320196   
 Andrés Villegas - A00239620   
 Github del proyecto: https://github.com/avillega/so-project   
-Nota: Por alguna razon los gifs no hacen loop, por tanto quiza sea necesario hacer refresh a esta pagina para poderlos visualizar correctamente
+### Nota: Por alguna razon los gifs no hacen loop, por tanto quiza sea necesario hacer refresh a esta pagina para poderlos visualizar correctamente
 
 ## Descripción breve de lo solicitado
 1. La instalación de Ubuntu Server 16.04 inicio con la descarga del archivo ISO desde la pagina oficial de ubuntu https://www.ubuntu.com/download/server . Luego se procedio a crear la maquina virtual en VirtualBox y se configuraron alli dos interfaces de red, una host-only y otra NAT. No se configuro alli una interfaz Bridge ya que se no se considero necesaria para el desarrollo del proyecto. Para la instalación se procedio siguiendo las instrucciones del wizard de instalación. Entre las más notables diferencias entre la instalación de Centos7 y Ubuntu Server estan : No se configura un password para el usuario root; la interfaz (GUI) es una interfaz por consola; Se hace explicito aceptar la cración de varias particiones en el disco donde se instala el sistema operativo. Una vez instalado se hace el reboot y se inicia la configuración.
